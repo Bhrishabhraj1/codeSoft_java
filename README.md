@@ -1,0 +1,4 @@
+This repository contains three basic java programming projects which showcases the java programming skills which i got got hands on experience in my 4 week CODSOFT virtual internship.
+The ATM machine:- This project is a basic account manager of a user which keeps track of a user's transcations like how much money has been deducted and how much money has been credited in the account os a user.
+The Marks Calculator:- This is a basic java programming project which keeps track of a student's marks and can be manipulated according to the user convenience.
+The Number Guessing Game:-This is a number guessing game where the program selects a random number, and the player has to guess it. The program will provide feedback after each guess, indicating whether the guessed number is too high or too low. Once the player guesses correctly, the game will congratulate them and show the number of attempts taken.
